@@ -1,4 +1,4 @@
-// File: C:\Users\Motsi\Documents\Clients\Dissertations-Projects\Tichaona-Mukurunyorova\photograpy-business-portolio-master\photograpy-business-portolio-master\app\page.tsx
+// File: /workspaces/PhotographySite/app/page.tsx
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

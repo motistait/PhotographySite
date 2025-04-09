@@ -8,8 +8,8 @@ const Footer = () => {
         <h1
           className={`text-primary text-3xl`}
         >
-          <span className={cinzelDecorative.className}>B</span>LACKEYE {' '}
-          <span className={cinzelDecorative.className}>V</span>ISUALS
+          <span className={cinzelDecorative.className}>T</span>ICHAONA {' '}
+          <span className={cinzelDecorative.className}>m</span>UKURUNYOROVA
         </h1>
       </div>
       <footer className="w-full text-center py-5 font-thin border-t border-primary">

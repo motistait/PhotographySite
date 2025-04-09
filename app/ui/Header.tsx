@@ -60,7 +60,7 @@ const Header = ({ screenWidth }: propType) => {
           <span className={cinzelDecorative.className}>Tichaona</span>Mukurunyorova <br />{" "}
           <span className={cinzelDecorative.className}>Photo</span>graphy
         </h1>
-        <p className=" w-[418px] mt-5 text-md font-thin hidden md:block">
+        <p className=" w-[418px] mt-5 text-md font-thin hidden md:block text-white">
           We offer a range of photographic experiences tailored to your unique
           needs. From stunning portraits and heartfelt weddings to dynamic
           events and striking commercial campaigns, our lens brings your story

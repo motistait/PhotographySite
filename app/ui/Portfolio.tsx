@@ -16,7 +16,7 @@ import 'swiper/css/navigation';
 const Portfolio = () => {
 
   const selection = [
-    59, 41,15,49]
+    1, 41,15,49]
   const pictures = selection.map((picture, i) => (
     <SwiperSlide key={i}>
       <Image src={`/photoAlbum/A-${picture}.jpg`} alt="photo" width={4000} height={5000} />
@@ -35,7 +35,7 @@ const Portfolio = () => {
       </div>
       <div>
       <p className="text-sm mt-5 md:mt-10 font-thin">
-      &quot;Welcome to BlackEye Visuals, where creativity meets authenticity in
+      &quot;Welcome to Tichaona Mukurunyorova Photography, where creativity meets authenticity in
         every frame. We are passionate about capturing moments that tell your
         unique story through the lens of our creative vision. Explore our
         portfolio and let our images speak to the genuine emotions, vivid

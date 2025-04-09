@@ -35,7 +35,7 @@ const Latest = () => {
       <div>
       <p className="text-sm mt-5 md:mt-10 font-thin">
         Introducing our latest masterpiece: a visual tale meticulously crafted
-        by BlackEye Visuals. Dive into a world where creativity knows no bounds
+        by Tichaona Mukurunyorova Photography. Dive into a world where creativity knows no bounds
         and authenticity reigns supreme
       </p>
       <div className=" mt-10 relative md:w-[80%] lg:w-[60%] snap-start md:snap-align-none">

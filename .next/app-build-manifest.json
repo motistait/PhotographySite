@@ -11,6 +11,12 @@
       "static/chunks/main-app.js",
       "static/css/app/layout.css",
       "static/chunks/app/layout.js"
+    ],
+    "/photoAlbum/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/photoAlbum/page.css",
+      "static/chunks/app/photoAlbum/page.js"
     ]
   }
 }

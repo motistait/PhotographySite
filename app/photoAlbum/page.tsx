@@ -24,8 +24,8 @@ const page = () => {
     <section className=" bg-white w-screen h-full">
       <header className="bg-black">
         <h1 className={`text-4xl p-5 z-10 text-primary  ${cinzel.className}`}>
-          <span className={cinzelDecorative.className}>B</span>LACKEYE <br />{" "}
-          <span className={cinzelDecorative.className}>V</span>ISUALS
+          <span className={cinzelDecorative.className}>T</span>ICHAONA MUKURUNYOROVA<br />{" "}
+          <span className={cinzelDecorative.className}>P</span>HOTOGRAPHY
         </h1>
       </header>
       <div>

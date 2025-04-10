@@ -13,7 +13,7 @@ const Footer = () => {
         </h1>
       </div>
       <footer className="w-full text-center py-5 font-thin border-t border-primary">
-        <p>2023 ©Blackeye Visuals. All Rights Reserved.</p>
+        <p>2023 ©Tichaona Mukurunyorova Photography. All Rights Reserved.</p>
       </footer>
     </section>
   );

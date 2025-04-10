@@ -4,7 +4,7 @@ import Image from "next/image";
 import { FaCameraRetro } from "react-icons/fa";
 
 const Prices = () => {
-  let insta = 'https://ig.me/m/blackeye_visuals_';
+  let insta = 'https://www.instagram.com/ale_muk__?igsh=MTBnbTQ5MHhsMTdyYg%3D%3D&utm_source=qr';
 
   return (
     <section className="py-10 px-5" id="price">
@@ -47,10 +47,11 @@ const Prices = () => {
       </div>
       <div className=" mt-10"></div>
       </div>
-      <div className="w-full">
+      <div className="w-full" id="contact">
         <a
           href={insta}
           className={` ${cinzel.className} text-primary mx-auto mt-10 text-2xl block w-fit py-2 px-5 text-center border border-primary rounded-md`}
+          target="_blank"
         >
           Book Now <FaCameraRetro className="ml-2 inline-block" />
         </a>
